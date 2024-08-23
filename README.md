@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KIRTIKA</h1>
-<h3 align="center">A second year student of computer science and engineering from India</h3>
+<h3 align="center">A third year student of computer science and engineering from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtika&label=Profile%20views&color=0e75b6&style=flat" alt="kirtika" /> </p>
 
