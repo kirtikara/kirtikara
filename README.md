@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtika&label=Profile%20views&color=0e75b6&style=flat" alt="kirtika" /> </p>
 
-- 🌱 I’m currently learning **web development , C++ .**
+- 🌱 I’m currently learning **REACT,REACTJS,FRONTEND, .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kirtikara/kirtikara.github.io](https://github.com/kirtikara/kirtikara.github.io)
 
